@@ -1,2 +1,2 @@
 # ceshi
-FROM progrium/consul
+FROM sameersbn/gitlab
